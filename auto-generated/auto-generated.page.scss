@@ -1,0 +1,35 @@
+
+
+
+.title-label{
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.password{
+    font-weight: bolder;
+}
+
+.warn{
+
+   margin-top: 20%;
+
+   p{
+       text-align: center;
+       margin-left: 10px;
+       margin-right: 10px;
+       color: red;
+   }
+}
+
+
+
+ion-header{
+    ion-toolbar{
+        --background:#24bee8
+    }
+
+    ion-title{
+        color: white;
+    }
+}
